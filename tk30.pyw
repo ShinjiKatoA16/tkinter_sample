@@ -1,4 +1,4 @@
-# P19 tk30.pyw
+# P19 tk30.pyw under git control
 
 import tkinter as tk
 
