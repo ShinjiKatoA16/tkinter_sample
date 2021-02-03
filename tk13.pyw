@@ -3,7 +3,7 @@
 
 import tkinter as tk
 root = tk.Tk()
-root.geometry('400x200+200+100')
+root.geometry('400x300+200+100')
 lb = tk.Label(text='This is a Label. This is a Label.\nThis is a Label.')
 ms = tk.Message(text='This is a Message. This is a Message. This is a Message.')
 [widget.pack() for widget in (lb,ms)]
